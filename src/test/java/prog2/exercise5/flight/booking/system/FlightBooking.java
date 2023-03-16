@@ -495,5 +495,8 @@ package prog2.exercise5.flight.booking.system;
         return returnTicketPrice;
     }
     
+            
+            
+            
     }
     
